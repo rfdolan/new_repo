@@ -1,2 +1,2 @@
 Here is the original content in the file.
-We are going to change this line.
+I made a change in branch1.
