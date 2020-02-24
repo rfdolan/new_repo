@@ -1,2 +1,3 @@
 Here is the original content in the file.
+I also made a change in branch2.
 I made a change in branch1.
